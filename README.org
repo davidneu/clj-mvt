@@ -1,0 +1,26 @@
+#+title:   clj-mvt
+#+startup: showall
+#+OPTIONS: toc:nil author:nil timestamp:nil
+
+* Overview
+
+The [[https://github.com/davidneu/clj-mvt][clj-mvt]], /minimum viable toolset/, library provides a small set of
+Clojure tools that combined with emacs and the [[https://github.com/davidneu/clj-mvt-el][clj-mvt-el]], [[https://github.com/clojure-emacs/clojure-mode][clojure-mode]],
+and [[https://github.com/clojure-emacs/inf-clojure][inf-clojure]] emacs packages, provide a simple REPL driven
+development environment.  This project provides installation and usage
+instructions for getting started quickly.
+
+* Usage
+
+See [[https://github.com/davidneu/clj-mvt-eg/][clj-mvt-eg]] for an example project and installation and instructions.
+
+* License
+
+This library includes a modified version of
+https://github.com/technomancy/limit-break, Copyright © 2009-2012 Alex
+Osborne, George Jahad, and Phil Hagelberg.
+
+Copyright © 2019 David J. Neu
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
