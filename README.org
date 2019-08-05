@@ -7,12 +7,12 @@
 The [[https://github.com/davidneu/clj-mvt][clj-mvt]], /minimum viable toolset/, library provides a small set of
 Clojure tools that combined with emacs and the [[https://github.com/davidneu/clj-mvt-el][clj-mvt-el]], [[https://github.com/clojure-emacs/clojure-mode][clojure-mode]],
 and [[https://github.com/clojure-emacs/inf-clojure][inf-clojure]] emacs packages, provide a simple REPL driven
-development environment.  This project provides installation and usage
-instructions for getting started quickly.
+development environment.
 
 * Usage
 
-See [[https://github.com/davidneu/clj-mvt-eg/][clj-mvt-eg]] for an example project and installation and instructions.
+See [[https://github.com/davidneu/clj-mvt-eg/][clj-mvt-eg]] for an example project and installation and usage
+instructions.
 
 * License
 
